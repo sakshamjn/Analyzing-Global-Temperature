@@ -1,1 +1,1 @@
-# Analyzing-Earth-Temperature# Analyzing Global Temperature
+# Analyzing Global Temperature
